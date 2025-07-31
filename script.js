@@ -48,7 +48,7 @@ var colors = ["red","blue","green"];
 colors.pop();
 console.log(colors);
 
-colors.unshift("yello");
+colors.unshift("yellow");
 console.log(colors);
 
 colors.shift();
